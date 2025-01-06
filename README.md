@@ -2,7 +2,7 @@
 - 👀 I’m interested in front-end development, sci-fi, and creating interactive user experiences.  
 - 🌱 I’m currently learning JavaScript and improving my web design skills.  
 - 💞️ I’m looking to collaborate on beginner-friendly open-source projects or fun web applications.  
-- 📫 How to reach me: mailto:georgesakura3@gmail.com
+- 📫 How to reach me: mailto:betteralba24@gmail.com
 - 😄 Pronouns: She/Her  
 - ⚡ Fun fact: I enjoy exploring new languages and sometimes try out programming humor!  
 
