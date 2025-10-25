@@ -10,3 +10,4 @@
 JiangziAlice/JiangziAlice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![github-snake](https://raw.githubusercontent.com/JiangziAlice/github-snake/output/github-snake.svg)
